@@ -1,3 +1,3 @@
 # scope-closures
 
-Coming zoom
+Coming soon
